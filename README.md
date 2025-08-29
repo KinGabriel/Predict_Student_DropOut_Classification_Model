@@ -61,4 +61,3 @@ Developed by the **KalApache Team**.
 
 ## Project Status
 This project has been submitted and graded.
-
